@@ -383,7 +383,7 @@ BEGIN {
       def dependencies
         {
           'openssl'  => [ 'openssl'  , ' ~> 3.2'   ] ,
-          'highline' => [ 'highline' , ' ~> 1.7'   ] ,
+          'highline' => [ 'highline' , ' ~> 1.6'   ] ,
           'map'      => [ 'map'      , ' ~> 6.6'   ] ,
           'fattr'    => [ 'fattr'    , ' ~> 2.4'   ] ,
           'coerce'   => [ 'coerce'   , ' ~> 0.0.8' ] ,
